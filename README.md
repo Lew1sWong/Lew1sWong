@@ -17,12 +17,13 @@ CS undergrad at the **National University of Singapore** (Class of 2028), workin
 
 #### Toolbox
 
-**Languages** · Python · TypeScript/JavaScript · Java · C · SQL
-**AI** · LLM & multimodal APIs (Claude, DeepSeek, Volcano Engine) · multi-agent frameworks (OASIS, CAMEL-AI) · MediaPipe
-**Dev** · React · Node.js · SQLite · Git
+- **Languages** · Python · TypeScript/JavaScript · Java · C · SQL
+- **AI** · LLM & multimodal APIs (Claude, DeepSeek, Volcano Engine) · multi-agent frameworks (OASIS, CAMEL-AI) · MediaPipe
+- **Dev** · React · Node.js · SQLite · Git
 
 #### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/lewis-kaiyuanhao-wang/) · lewiswang@u.nus.edu · 中文 / English
 
 <sub>Off the keyboard: piano, guitar and singing 🎹🎸</sub>
+
